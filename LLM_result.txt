@@ -1,0 +1,7 @@
+- Job title: Développeur Full Stack
+- Company offering the position: Integraal Data Services
+- Job ad publication date: 2024-02-01T01:42:42+01:00
+- Contract type: FULL_TIME
+- Job location: Genève
+- Job mission: Integraal Data Services is recruiting a consultant Développeur Full Stack to join a multidisciplinary team in Suisse Romande and work with our client. The job mission includes 3 years of experience in a development role, recognized knowledge in Java, Spring Boot, Angular JS, proven skills in Kubernetes, Docker, Puppet, RabitMQ, Bamboo (Kafka is a plus), at least 2 years of experience in a similar position, and being proactive, autonomous, collaborative, innovative, attentive, rigorous, and well-organized.
+- Candidate requirements: The candidate should have a Master's degree in Computer Science and preferably be a resident of Switzerland.
