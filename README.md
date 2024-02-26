@@ -10,4 +10,5 @@ result.txt           // HTML soup representing the page crawled, useful for scou
 LLM_result.txt       // Categorization output when using Large Language Models with a scraped job offer's description as argument (serves as proof of concept as well as for future reference)  
 get-pip.py           // Bootstrap file to install relevant dependencies in uncontrolled environments (if necessary)
 params.env           // Safe way to implement API keys that shouldn't be visible from the main source scripts (modified when pushed to git)
+__pycache__/         // Cached pycrawlermodules initialization in byte form (will be regenerated if missing)
 ```
